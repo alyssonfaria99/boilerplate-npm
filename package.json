@@ -2,6 +2,10 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alysson",
 	"description": "nem começou a ja ta me matando de raiva",
+	"keywords": [
+		"freeCodeCamp",
+		"node"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
